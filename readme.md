@@ -1,65 +1,64 @@
-# 🚐 Proyecto Web Camper – HTML & CSS
+# 🚐 Camper Travel Website
 
-🌟 **¡Explora el mundo sobre ruedas con estilo y buen diseño!**
+## 📌 Project Overview
+This project is a website dedicated to camper van travel, designed to inspire and guide users who enjoy exploring by van. It provides destinations, travel tips, and visual content in a clean and organized layout.
 
----
-
-## 🎯 Objetivo del proyecto
-Crear una **pequeña web inspiradora sobre viajes en furgoneta camper**, centrada en **practicar HTML y CSS**.  
-Se busca un **diseño limpio, visual y navegable**, con efectos modernos como el **parallax** y botones llamativos.
-
-> 💡 **Bonus:** más adelante se puede añadir JavaScript para interactividad (menús dinámicos, sliders, animaciones).
+The website aims to combine visual appeal with practical information, giving users a simple and enjoyable browsing experience.
 
 ---
 
-## 🏗️ Estructura y secciones
-- **Menú de navegación** – Acceso rápido a todas las secciones.  
-- **Sección Parallax** – Imagen de fondo con texto y botón:  
-  - **Título:** “Vive la libertad sobre ruedas”  
-  - **Texto:** “Descubre lugares únicos para viajar en furgoneta camper, despertar rodeado de naturaleza y disfrutar del camino sin prisas. Cada destino es una nueva aventura.”  
-  - **Botón:** “Ver destinos camper”  
-- **Destinos** – Lista de lugares interesantes para visitar en camper.  
-- **Consejos** – Tips para viajar seguro y cómodo.  
-- **Galería** – Fotos de rutas y experiencias.  
-- **Contacto** – Información de localización y enlaces.  
-- **Footer** – Información adicional y enlaces de navegación.
+## 🌐 Main Features
+- Parallax effect on the destinations page  
+- Information about different travel routes and destinations  
+- Clean visual layout with sections for each location  
+- Easy navigation with a clear structure  
+
 
 ---
 
-## 🛠️ Tecnologías utilizadas
-- **HTML**  
-  - Estructura semántica: secciones, encabezados, párrafos y enlaces.  
-  - Preparación para efectos visuales y futura interactividad.  
-- **CSS**  
-  - Diseño visual: colores, tipografía, espaciado y layout.  
-  - Efectos: **parallax**, transiciones suaves y hover en botones.  
-  - Responsive: adaptación a móviles y tablets.  
+## 🎯 Objective
+- Practice front-end web design using WordPress, HTML and CSS  
+- Learn how to create visually engaging layouts  
+- Implement parallax effects for a modern design  
+- Organize content clearly for an intuitive user experience  
 
 ---
 
-## ⚙️ Funcionamiento
-1. Abrir `index.html` en un navegador moderno.  
-2. Navegar usando el menú o los botones de la página.  
-3. Disfrutar del efecto parallax al hacer scroll.  
+## ⚙️ How It Works
+The website is divided into several sections:
+
+- **Home**: Overview and introduction to camper travel  
+- **Destinations**: Details of different travel routes with parallax effect  
+- **Travel Tips**: Practical advice and suggestions for camper trips  
+- **Contact / Location**: Information about reaching or booking trips  
+
+Users can scroll through sections and navigate easily to explore each destination.
 
 ---
 
-## 📝 Cómo probarlo
-1. Clonar o descargar el repositorio.  
-2. Abrir `index.html` en el navegador.  
-3. Revisar que el parallax se vea correctamente y que los enlaces funcionen.  
-4. Ajustar estilos en `style.css` si quieres personalizar colores, tipografía o layout.
+## 🧪 How to Use
+1. Visit the website online  
+2. Navigate through the different sections  
+3. Explore destinations and travel content  
+
+No installation or dependencies are required.  
 
 ---
 
-## 💡 Qué se practica
-- **HTML:** maquetación y organización semántica.  
-- **CSS:** diseño visual, layout, parallax y hover.  
-- **Organización web:** estructura de archivos y preparación para JS futuro.  
+## 🛠️ Technologies Used
+
+### WordPress (Astra + Elementor)
+- Page building and content management  
+- Parallax and layout control  
+- Visual styling without heavy coding  
+
+### HTML & CSS
+- Custom sections and styling  
+- Visual layout adjustments  
+- Parallax effect implementation  
 
 ---
 
-## 🎨 Extras / Ideas futuras
-- Añadir **JavaScript** para interactividad: sliders, menús dinámicos o animaciones.  
-- Incluir **formularios** o **mapas interactivos** de rutas.  
-- Experimentar con **diseño responsive avanzado** para distintos dispositivos.
+## 👨‍💻 Author
+Created by Pau Morilla Codina as part of my learning journey in front-end web development.  
+Open to feedback and collaboration.
